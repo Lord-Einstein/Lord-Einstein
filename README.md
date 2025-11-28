@@ -5,8 +5,8 @@
 
 ---
 
-# 👋 Hey, moi c’est **[Ton Nom]**  
-### Développeur passionné — Curieux — Toujours en train d’explorer plus loin 🚀
+# 👋 Hey, moi c’est **Darill.**  
+### Développeur passionné — Curieux — Pour moi la meilleure stack d'un Dev c'est " Never stop learning - English - Good Code practices ".
 
 Bienvenue sur mon espace GitHub.  
 Je suis quelqu'un qui **apprend en continu**, qui explore, qui démonte, qui reconstruit.  
