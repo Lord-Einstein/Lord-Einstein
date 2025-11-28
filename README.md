@@ -57,4 +57,4 @@ Développer est devenu autant un terrain de jeu sérieux mais passionant qu’un
   <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="20%" />
 </p>
 
-### Merci d’être passé — Au plaisir de participer à un projet Dev avec vous ✨
+###                 Merci d’être passé — Au plaisir de participer à un projet Dev avec vous ✨
