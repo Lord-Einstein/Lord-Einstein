@@ -1,5 +1,5 @@
 
-# <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="10%" height="10%" /> Hello ! I'm **Darill. AD.**  
+# <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="5%" height="10%" /> Hello ! I'm **Darill. AD.**  
 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMDM3NjcsIm5iZiI6MTc2NDMwMzQ2NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA0MTc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1MjMzNTI5NGVmODY3MjE4MTJjMmVmN2E5ZjU3ZjVmNGYyMWI2OWE2YzM1NDBjZjQxZTEyZTAyNmQ1OTQxYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zeDCu0HBu4kHdDAfJV0NzGknKKXoSlbtpQhtV0HGk-8" width="100%" />
