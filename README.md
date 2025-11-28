@@ -1,5 +1,5 @@
 
-# Hello ! I'm **Darill.** <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="6%" height="10%" />  
+#  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="5%" " />  Hello ! I'm **Darill.**
 
 <p align="center">
   <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMDM3NjcsIm5iZiI6MTc2NDMwMzQ2NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA0MTc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1MjMzNTI5NGVmODY3MjE4MTJjMmVmN2E5ZjU3ZjVmNGYyMWI2OWE2YzM1NDBjZjQxZTEyZTAyNmQ1OTQxYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zeDCu0HBu4kHdDAfJV0NzGknKKXoSlbtpQhtV0HGk-8" width="100%" />
@@ -9,15 +9,13 @@
 ### Développeur passionné — Pour moi la meilleure stack d'un Dev c'est " Never stop learning - English - Good Code practices ".
 
 Bienvenue sur mon espace GitHub.  
-Je suis quelqu'un qui **apprend en continu**, qui explore, qui démonte, qui reconstruit.  
-Pour moi, le développement c’est autant un terrain de jeu qu’un véritable moteur d’évolution personnelle.
+Moi j'adore **apprendre en continu**, j'explore, je démonte, et je reconstruit.  
+Développer est devenu autant un terrain de jeu sérieux mais passionant qu’un véritable moteur d’évolution personnelle.
 
-Je veux comprendre **comment les choses fonctionnent**,  
-comment les améliorer,  
-et ce que je pourrais apprendre de plus pour aller plus loin.
+---
 
-Je construis, je teste, j’optimise.  
-Et chaque projet ici reflète un morceau de ce parcours.
+**<h3 align="left">Liens de contact :</h3>** 
+<p align="left"><a href="https://github.com/Lord-Einstein/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/adjiwanou-darill/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 10px"></a></p>
 
 ---
 
