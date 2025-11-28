@@ -20,28 +20,30 @@ Développer est devenu autant un terrain de jeu sérieux mais passionant qu’un
 ---
 
 # ⚙️ **Skills — Développement**
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="60px"/>
+<p align="center" gap ="20px">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40px"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="40px"/>
 </p>
 
 ---
 
 # 🎨 **Skills — Design & UI**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="60px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="60px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator.svg" width="40px"/>
 </p>
 
 ---
 
-# 📊 **Ce que j’aime faire**
+#  **Ce que j’aime faire**
 - Concevoir des projets de A à Z  
 - Optimiser et structurer du code  
 - Travailler sur des projets hybrides **dev × design**  
@@ -51,27 +53,16 @@ Développer est devenu autant un terrain de jeu sérieux mais passionant qu’un
 ---
 
 # 🚀 **Projets en avant**
-- 🌐 Web Apps modernes  
-- 🛠️ Scripts / automations  
-- 🎮 Expérimentations graphiques et UI  
-- 📦 Projets backend & gestion de données  
+- 🌐 Web Apps modernes  (Dépôts Blogame, Tp_visite ...)
+- 🛠️ Scripts / automations  (Dépôts Set_up_env...)
+- 📦 Projets backend & gestion de données  (Dépôts Flutter, svg_app (C) )
 
-*(N’hésite pas à parcourir mes repos, certains changent souvent)*
 
 ---
 
-# 🌄 **Une petite ambiance pour finir**
+# ****
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/landscape-night.gif" width="100%" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="100%" />
 </p>
 
----
-
-# 📫 **Contact**
-📧 Email : *à compléter*  
-🔗 Portfolio : *à compléter*  
-💼 LinkedIn : *à compléter*
-
----
-
-### Merci d’être passé — à bientôt sur un projet ✨
+### Merci d’être passé — Au plaisir de participer à un projet Dev avec vous ✨
