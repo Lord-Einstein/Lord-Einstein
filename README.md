@@ -90,7 +90,7 @@
 
 <details>
   <summary>
-    <h2 style="display:inline-block; cursor:pointer;">⚙️ Ce que je peux apporter dans un projet ?</h2>
+    <h2 style="display:inline-block; cursor:pointer;">⚙️ Ce que je peux apporter dans un projet ou une équipe ?</h2>
   </summary>
 
   <br>
@@ -102,7 +102,7 @@
           Je me situe bien à l'intersection de la <b>logique backend</b> et de la <b>sensibilité frontend :</b>
         </p>
         <ul>
-            <li><b>Participer à la conception de A à Z :</b> De la base de données au pixel final.</li><br>
+            <li><b>Participer à la conception de A à Z :</b> De la base de données au pixel final en jouant pleinement les rôles qui me sont attribués.</li><br>
             <li><b>Optimisation :</b> Rendre le code plus rapide, plus léger, plus lisible.</li><br>
             <li><b>Design :</b> J'apprécie les interfaces belles et simples d'utilisation. Je parle donc couramment le language du SaaS Figma, d'Adobe(Ai, Ps, XD) ce qui facilite grandement la collaboration avec les équipes de designers...</li>
         </ul>
