@@ -1,0 +1,150 @@
+<svg width="850" height="200" viewBox="0 0 850 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rainbow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF5F6D" />
+      <stop offset="25%" style="stop-color:#FFC371" />
+      <stop offset="50%" style="stop-color:#23A6D5" />
+      <stop offset="75%" style="stop-color:#23D5AB" />
+      <stop offset="100%" style="stop-color:#FF5F6D" />
+    </linearGradient>
+
+    <clipPath id="mask-fr-1"><rect x="0" y="0" width="0" height="50" class="type-fr-1" /></clipPath>
+    <clipPath id="mask-fr-2"><rect x="0" y="50" width="0" height="50" class="type-fr-2" /></clipPath>
+    <clipPath id="mask-fr-3"><rect x="0" y="100" width="0" height="60" class="type-fr-3" /></clipPath>
+
+    <clipPath id="mask-en-1"><rect x="0" y="0" width="0" height="50" class="type-en-1" /></clipPath>
+    <clipPath id="mask-en-2"><rect x="0" y="50" width="0" height="50" class="type-en-2" /></clipPath>
+    <clipPath id="mask-en-3"><rect x="0" y="100" width="0" height="60" class="type-en-3" /></clipPath>
+  </defs>
+
+  <style>
+    /* Import de la police Fredoka (Arrondie et Moderne) */
+    @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@500;800&amp;display=swap');
+
+    /* Styles de base */
+    text {
+      font-family: 'Poppins', sans-serif;
+      font-size: 34px;
+      font-weight: 500;
+      fill: url(#rainbow);
+      dominant-baseline: hanging;
+    }
+
+    /* Le Gros Texte */
+    .big {
+      font-size: 40px;
+      font-weight: 800; /* Extra Bold */
+      letter-spacing: 1px;
+      filter: drop-shadow(0px 2px 0px rgba(0,0,0,0.1));
+    }
+
+    /* Le Curseur (Barre verticale) */
+    .caret {
+      fill: #4D96FF;
+      opacity: 0;
+      animation: blink 0.8s infinite;
+    }
+
+    /* ANIMATIONS CSS */
+    
+    /* 1. Clignotement du curseur */
+    @keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+
+    /* 2. Effet Machine à écrire (Width 0 -> 100%) */
+    /* L'astuce "steps" crée l'effet lettre par lettre */
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 850px; }
+    }
+    
+    /* 3. Gestion Visibilité Globale (FR vs EN) */
+    @keyframes toggleLanguage {
+      0%, 45% { opacity: 1; } /* FR visible */
+      50%, 100% { opacity: 0; } /* FR invisible */
+    }
+    @keyframes toggleLanguageEN {
+      0%, 45% { opacity: 0; } /* EN invisible */
+      50%, 95% { opacity: 1; } /* EN visible */
+      100% { opacity: 0; }
+    }
+
+    /* --- CHRONOLOGIE (TIMELINE) --- 
+       Cycle total de 20 secondes
+       0s - 9s : Français
+       10s - 19s : Anglais
+    */
+
+    /* Groupe Français */
+    .group-fr { animation: toggleLanguage 20s infinite; }
+    
+    /* steps(40) signifie "divise l'animation en 40 saccades" (env. nb de lettres) */
+    .type-fr-1 { animation: typing 2s steps(40) forwards; animation-delay: 0.5s; }
+    .type-fr-2 { animation: typing 2.5s steps(50) forwards; animation-delay: 2.5s; }
+    .type-fr-3 { animation: typing 1.5s steps(20) forwards; animation-delay: 5s; }
+
+    /* Curseur suiveur FR (Animation de position X) */
+    .cursor-fr-1 { animation: cursorMove1 2s steps(40) forwards; animation-delay: 0.5s; opacity: 1; }
+    .cursor-fr-2 { animation: cursorMove2 2.5s steps(50) forwards; animation-delay: 2.5s; opacity: 1; }
+    .cursor-fr-3 { animation: cursorMoveBig 1.5s steps(20) forwards; animation-delay: 5s; opacity: 1; }
+
+    /* Groupe Anglais (Décalé de 10s) */
+    .group-en { animation: toggleLanguageEN 20s infinite; }
+    
+    .type-en-1 { animation: typing 2s steps(40) forwards; animation-delay: 10.5s; }
+    .type-en-2 { animation: typing 2.5s steps(50) forwards; animation-delay: 12.5s; }
+    .type-en-3 { animation: typing 1.5s steps(20) forwards; animation-delay: 15s; }
+
+    /* Definitions des mouvements de curseur (Position X de depart -> fin) */
+    @keyframes cursorMove1 { from { x: 0; } to { x: 550; } } /* Ajuster selon longueur ligne 1 */
+    @keyframes cursorMove2 { from { x: 0; } to { x: 620; } } /* Ajuster selon longueur ligne 2 */
+    @keyframes cursorMoveBig { from { x: 0; } to { x: 380; } } /* Ajuster selon longueur ligne 3 */
+
+    /* Masquer les curseurs quand ce n'est pas leur tour */
+    .c1 { animation: showHideCursor 2.5s forwards 0.5s; opacity: 0; }
+    .c2 { animation: showHideCursor 2.5s forwards 2.5s; opacity: 0; }
+    .c3 { animation: showHideCursor 4s forwards 5s; opacity: 0; } /* Reste à la fin */
+    
+    .ce1 { animation: showHideCursor 2.5s forwards 10.5s; opacity: 0; }
+    .ce2 { animation: showHideCursor 2.5s forwards 12.5s; opacity: 0; }
+    .ce3 { animation: showHideCursor 4s forwards 15s; opacity: 0; }
+
+    @keyframes showHideCursor { 0% { opacity: 1; } 90% { opacity: 1; } 100% { opacity: 0; } }
+
+  </style>
+
+  <g class="group-fr">
+    <g clip-path="url(#mask-fr-1)">
+      <text x="0" y="10">Hello ! Je suis Darill... j'aime la bonne bouffe,</text>
+    </g>
+    <rect x="0" y="10" width="3" height="28" class="caret c1 cursor-fr-1" />
+
+    <g clip-path="url(#mask-fr-2)">
+      <text x="0" y="50">jouer avec des potes, passer du temps en famille</text>
+    </g>
+    <rect x="0" y="50" width="3" height="28" class="caret c2 cursor-fr-2" />
+
+    <g clip-path="url(#mask-fr-3)">
+      <text x="0" y="100" class="big">et J'ADORE CODER !!</text>
+    </g>
+    <rect x="0" y="102" width="5" height="40" class="caret c3 cursor-fr-3" />
+  </g>
+
+
+  <g class="group-en">
+    <g clip-path="url(#mask-en-1)">
+      <text x="0" y="10">Hello! I'm Darill... I love good food, hanging out</text>
+    </g>
+    <rect x="0" y="10" width="3" height="28" class="caret ce1 cursor-en-1" style="animation: cursorMove1 2s steps(40) forwards 10.5s;" />
+
+    <g clip-path="url(#mask-en-2)">
+      <text x="0" y="50">with friends, spending time with family and</text>
+    </g>
+    <rect x="0" y="50" width="3" height="28" class="caret ce2 cursor-en-2" style="animation: cursorMove2 2.5s steps(50) forwards 12.5s;" />
+
+    <g clip-path="url(#mask-en-3)">
+      <text x="0" y="100" class="big">I LOVE CODING !!</text>
+    </g>
+    <rect x="0" y="102" width="5" height="40" class="caret ce3 cursor-en-3" style="animation: cursorMoveBig 1.5s steps(20) forwards 15s;" />
+  </g>
+
+</svg>

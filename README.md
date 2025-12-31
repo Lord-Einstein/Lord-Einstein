@@ -1,60 +1,158 @@
+<div align="center">
+  <table style="border: none; background-color: transparent; width: 100%;">
+    <tr>
+      <td width="40%" align="center" style="border: none;">
+        <img src="./free_style.png" width="100%" alt="Avatar Darill">
+      </td>
+      <td width="60%" align="center" style="border: none;">
+        <img src="./type3-1.svg" width="100%" alt="Présentation animée Darill">
+        <br>
+        <p>
+            Bienvenue dans mon espace Github. Ici sont posées plusieurs de mes réalisations personnelles ou celles faites en groupe.
+            Je m'amuse à créer, améliorer, tout casser et reconstruire quand c'est nécessaire ^^... Soooo ...enjoy your visit !
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
-#  <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="5%"/>  Hello ! I'm **Darill.**
+<div align="center">
+  <a href="https://github.com/Lord-Einstein/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a> 
+  <a href="https://www.linkedin.com/in/adjiwanou-darill/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://discord.com/users/1350209832938110986" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</div>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMDM3NjcsIm5iZiI6MTc2NDMwMzQ2NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA0MTc0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY1MjMzNTI5NGVmODY3MjE4MTJjMmVmN2E5ZjU3ZjVmNGYyMWI2OWE2YzM1NDBjZjQxZTEyZTAyNmQ1OTQxYmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zeDCu0HBu4kHdDAfJV0NzGknKKXoSlbtpQhtV0HGk-8" width="100%" />
-</p>
+<br>
 
----
-### Développeur passionné... pour moi la meilleure stack d'un Dev c'est " Never stop learning - English - Good Code practices ".
+<details open>
+  <summary>
+    <h2 style="display:inline-block; cursor:pointer;">😇 Qui se cache derrière le code ?</h2>
+  </summary>
+  
+  <br>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="60%" style="border: none;">
+        <h3>Curieux et Passiontivé.</h3>
+        <p>
+            <b>Passiontivé = Passionné + Motivé ^^</b><br><br>
+          ReSalut ! Moi, c'est <b>Darill</b>. Au-delà des lignes de code, je vois le développement comme un immense terrain de jeu logique.<br><br>
+          <b>J'aime apprendre puis tester et à force je peux comprendre <i>pourquoi et comment</i> les choses fonctionnent.</b><br><br>
+          C'est important pour moi d'intégrer les mécaniques de base de chaque concept technique afin de  construire des solutions numériques fonctionnelles, optimales, et agréable à utiliser....<br> Ah ! et aussi j'adore les observations/retours constuctifs puisqu'ils permettent de s'améliorer ✨! 
+        </p>
+      </td>
+      <td width="40%" align="center" style="border: none;">
+        <img src="./hello_man.png" width="80%" alt="Avatar qui salue">
+      </td>
+    </tr>
+  </table>
+</details>
 
-Bienvenue sur mon espace GitHub.  
-Moi j'adore **apprendre en continu**, j'explore, je démonte, et je reconstruit.  
-Développer est devenu autant un terrain de jeu sérieux mais passionant qu’un véritable moteur d’évolution personnelle.
+<hr>
 
----
+<details>
+  <summary>
+    <h2 style="display:inline-block; cursor:pointer;">🤓 Quelle est la meilleure Stack selon moi ?</h2>
+  </summary>
 
-**<h3 align="left">Liens de contact :</h3>** 
-<p align="left"><a href="https://github.com/Lord-Einstein/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/adjiwanou-darill/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 10px"></a></p>
+  <br>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="30%" align="center" style="border: none;">
+        <img src="./man_collborate.png" width="90%" alt="Coding Focus by collaborate">
+      </td>
+      <td width="70%" style="border: none;">
+        <h3>More than just languages...</h3>
+        <p>
+          On me demande souvent : <i>"C'est quoi ta techno préférée ?"</i>.<br>
+          Pour moi, la stack ultime ne se résume pas au React ou au PHP. C'est une trinité fondamentale :
+        </p>
+        <ul>
+            <li>🔥 <b>Never Stop Learning :</b> La tech évolue vite, et il faut suivre le rythme.</li>
+            <li>🇬🇧- <b>English :</b> La langue universelle de la documentation technique.</li>
+            <li>✨ <b>Good Code Practices :</b> Ecrire au maximum du code propre, et facilement maintenable...</li>
+        </ul>
+        <p>
+          Les outils changent à une vitesse folle, mais ces principes restent et c'est ça, ma vraie stack.
+        </p>
+      </td>
+    </tr>
+  </table>
+</details>
 
----
+<hr>
 
-# ⚙️ **Skills — Développement**
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55px" margin-right="20px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55px" margin-right="20px"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55px"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="55px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="55px"/>
-</p>
+<details>
+  <summary>
+    <h2 style="display:inline-block; cursor:pointer;">⚙️ Ce que je peux apporter dans un projet ?</h2>
+  </summary>
 
----
+  <br>
+  <table style="border: none; width: 100%;">
+    <tr>
+      <td width="60%" style="border: none;">
+        <h3>Architecture & Design</h3>
+        <p>
+          Je me situe bien à l'intersection de la <b>logique backend</b> et de la <b>sensibilité frontend :</b>
+        </p>
+        <ul>
+            <li><b>Participer à la conception de A à Z :</b> De la base de données au pixel final.</li><br>
+            <li><b>Optimisation :</b> Rendre le code plus rapide, plus léger, plus lisible.</li><br>
+            <li><b>Design :</b> J'apprécie les interfaces belles et simples d'utilisation. Je parle donc couramment le language du SaaS Figma, d'Adobe(Ai, Ps, XD) ce qui facilite grandement la collaboration avec les équipes de designers...</li>
+        </ul>
+      </td>
+      <td width="40%" align="center" style="border: none;">
+        <img src="./cool_duo.png" width="80%" alt="Perfect Duo">
+      </td>
+    </tr>
+  </table>
+</details>
 
-#  **Ce que j’aime faire**
-- Concevoir des projets de A à Z  
-- Optimiser et structurer du code  
-- Travailler sur des projets hybrides **dev × design**  
-- Comprendre de nouvelles techno  
-- Monter en compétence sur des systèmes, bases de données et architectures modernes  
+<hr>
 
----
+<h3>🛠️ Mon arsenal Technique (en pleine croissance ^^)</h3>
 
-# 🚀 **Projets en avant**
-- 🌐 Web Apps modernes  (Dépôts Blogame, Tp_visite ...)
-- 🛠️ Scripts / automations  (Dépôts Set_up_env...)
-- 📦 Projets backend & gestion de données  (Dépôts Flutter, svg_app (C) )
+<div align="center">
+  <table style="border: none; background-color: transparent; width: 100%;">
+    <tr>
+        <td width="40%" align="center" style="border: none;">
+            <img src="./spider_fly.png" width="90%" alt="Tech Tools 3D"/>
+        </td>
+      <td width="60%" valign="middle" style="border: none;">
+        <div align="center">
+          <img src="https://img.icons8.com/color/48/000000/c-programming.png" width="50" style="margin: 5px;" alt="C"/>
+          <img src="https://img.icons8.com/fluency/48/000000/python.png" width="50" style="margin: 5px;" alt="Python"/>
+          <img src="https://img.icons8.com/fluency/48/000000/php.png" width="50" style="margin: 5px;" alt="PHP"/>
+           <img src="https://img.icons8.com/color/48/000000/symfony.png" width="50" style="margin: 5px;" alt="Symfony"/>
+          <img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" width="50" style="margin: 5px;" alt="MySQL"/>
+          <img src="https://img.icons8.com/fluency/48/000000/javascript.png" width="50" style="margin: 5px;" alt="JS"/>
+          <img src="https://img.icons8.com/fluency/48/000000/java-coffee-cup-logo.png" width="50" style="margin: 5px;" alt="Java"/>
+        </div>
+        <br>
+        <div align="center">
+            <img src="https://img.icons8.com/fluency/48/000000/html-5.png" width="50" style="margin: 5px;" alt="HTML5"/>
+            <img src="https://img.icons8.com/fluency/48/000000/css3.png" width="50" style="margin: 5px;" alt="CSS3"/>
+          <img src="https://img.icons8.com/color/48/000000/postgreesql.png" width="50" style="margin: 5px;" alt="PostgreSQL"/>
+          <img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png" width="50" style="margin: 5px;" alt="Photoshop"/>
+          <img src="https://img.icons8.com/fluency/48/000000/adobe-illustrator.png" width="50" style="margin: 5px;" alt="Illustrator"/>
+          <img src="https://img.icons8.com/fluency/48/000000/figma.png" width="50" style="margin: 5px;" alt="Figma"/>
+          <img src="https://img.icons8.com/fluency/144/blender-3d.png" width="50" style="margin: 5px;" alt="Blender"/>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
+<br>
+<hr>
 
----
-
-# ****
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352968-ac6f7b24-ed9a-4d00-a045-710caa6fc834.gif" width="20%" />
-</p>
-
-###                               Merci d’être passé — Au plaisir de participer à un projet Dev avec vous ✨
+<div align="center">
+  <p>MERCI d’être passé ! N'hésite pas à explorer mes dépôts ou à me pinguer pour discuter Projets, Tech, Gaming ou Bouffe 🍕😉.</p>
+  <img src="./rain_room.gif" width="90%" />
+</div>
