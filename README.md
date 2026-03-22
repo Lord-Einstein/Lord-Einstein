@@ -44,7 +44,7 @@
             <b>Passiontivé = Passionné + Motivé ^^</b><br><br>
           ReSalut ! Moi, c'est <b>Darill</b>. Au-delà des lignes de code, je vois le développement comme un immense terrain de jeu logique.<br><br>
           <b>J'aime apprendre puis tester et à force je peux comprendre <i>pourquoi et comment</i> les choses fonctionnent.</b><br><br>
-          C'est important pour moi d'intégrer les mécaniques de base de chaque concept technique afin de  construire des solutions numériques fonctionnelles, optimales, et agréable à utiliser....<br> Ah ! et aussi j'adore les observations/retours constuctifs puisqu'ils permettent de s'améliorer ✨! 
+          C'est important pour moi d'intégrer les mécaniques de base de chaque concept technique afin de  construire des solutions numériques fonctionnelles, optimales, et agréable à utiliser....<br> Ah ! et aussi j'adore les observations/retours constructifs puisqu'ils permettent de s'améliorer ✨! 
         </p>
       </td>
       <td width="40%" align="center" style="border: none;">
